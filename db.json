@@ -1,0 +1,18 @@
+{
+  "transactions": [
+    {
+      "id": "2",
+      "date": "2024-02-15",
+      "description": "Gas bill payment",
+      "category": "Utilities",
+      "amount": 30
+    },
+    {
+      "id": "74e6",
+      "date": "2024-02-17",
+      "description": "School fees",
+      "category": "Food",
+      "amount": "9000"
+    }
+  ]
+}
